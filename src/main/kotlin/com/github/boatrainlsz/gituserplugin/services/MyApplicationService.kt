@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.boatrainlsz.gituserplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.boatrainlsz.gituserplugin.MyBundle
 
 class MyApplicationService {
 
